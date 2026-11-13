@@ -1,0 +1,181 @@
+{
+  "about": "The Wise Guys book: every middle each player has taken, in dollars, oldest first. Same seed the page ships with (localStorage key wiseGuysData).",
+  "source": "site-rick-lupo-wiseguys, the 2025 original",
+  "exported": "2026-11-12",
+  "totalPaidOut": 2224,
+  "nights": 67,
+  "players": [
+    {
+      "name": "Wayne",
+      "wins": [
+        27,
+        27,
+        33,
+        27,
+        36,
+        21,
+        21,
+        33,
+        39,
+        30,
+        36,
+        33,
+        33,
+        27
+      ],
+      "nights": 14,
+      "total": 423
+    },
+    {
+      "name": "Charles",
+      "wins": [
+        27,
+        33,
+        33,
+        27,
+        27,
+        33,
+        36,
+        36,
+        36
+      ],
+      "nights": 9,
+      "total": 288
+    },
+    {
+      "name": "Cary",
+      "wins": [
+        27,
+        33,
+        33,
+        33,
+        33,
+        33,
+        39
+      ],
+      "nights": 7,
+      "total": 231
+    },
+    {
+      "name": "Joe",
+      "wins": [
+        39,
+        39,
+        39,
+        30
+      ],
+      "nights": 4,
+      "total": 147
+    },
+    {
+      "name": "Jim",
+      "wins": [
+        27,
+        39,
+        30,
+        39
+      ],
+      "nights": 4,
+      "total": 135
+    },
+    {
+      "name": "Lanier",
+      "wins": [
+        30,
+        33,
+        39,
+        33
+      ],
+      "nights": 4,
+      "total": 135
+    },
+    {
+      "name": "Ken",
+      "wins": [
+        21,
+        48,
+        33,
+        33
+      ],
+      "nights": 4,
+      "total": 135
+    },
+    {
+      "name": "Farber",
+      "wins": [
+        30,
+        33,
+        30,
+        31
+      ],
+      "nights": 4,
+      "total": 124
+    },
+    {
+      "name": "Rick G",
+      "wins": [
+        36,
+        33,
+        39
+      ],
+      "nights": 3,
+      "total": 108
+    },
+    {
+      "name": "Rick L",
+      "wins": [
+        36,
+        33,
+        33
+      ],
+      "nights": 3,
+      "total": 102
+    },
+    {
+      "name": "Schiltz",
+      "wins": [
+        33,
+        33,
+        36
+      ],
+      "nights": 3,
+      "total": 102
+    },
+    {
+      "name": "Sperm",
+      "wins": [
+        60,
+        39
+      ],
+      "nights": 2,
+      "total": 99
+    },
+    {
+      "name": "Mark",
+      "wins": [
+        33,
+        33,
+        27
+      ],
+      "nights": 3,
+      "total": 93
+    },
+    {
+      "name": "Crowe",
+      "wins": [
+        30,
+        39
+      ],
+      "nights": 2,
+      "total": 69
+    },
+    {
+      "name": "Darien",
+      "wins": [
+        33
+      ],
+      "nights": 1,
+      "total": 33
+    }
+  ]
+}
