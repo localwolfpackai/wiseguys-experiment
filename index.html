@@ -198,8 +198,9 @@ h1 span{color:var(--chalk)}
 .late li b{margin-left:auto; font-weight:800; font-variant-numeric:tabular-nums}
 .late li.none{color:rgba(22,17,12,.5)}
 .ded{margin:0; height:var(--rule); font:700 13px/var(--rule) var(--disp)}
-.foot{display:flex; justify-content:space-between; align-items:center; gap:10px; min-height:var(--rule); font:500 10px/1.5 var(--mono); letter-spacing:.1em; color:rgba(22,17,12,.6)}
+.foot{display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center; gap:10px; min-height:var(--rule); font:500 10px/1.5 var(--mono); letter-spacing:.1em; color:rgba(22,17,12,.6)}
 .foot a{color:inherit}
+.foot span:last-child{display:flex; gap:6px; flex-wrap:wrap}
 
 /* ───────── who won? (big-name picker) ───────── */
 dialog.picker{width:min(600px,94vw); max-height:90vh; padding:22px 18px 18px; border:0; background:var(--paper); color:var(--ink); box-shadow:0 40px 90px rgba(0,0,0,.8)}
