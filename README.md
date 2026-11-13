@@ -4,6 +4,7 @@ My dad and his buddies play Left Right Center every Wednesday. They call themsel
 
 One HTML file. No build, no dependencies, works offline.
 
+**Live:** https://wise-guys-experiment.vercel.app  
 **Watch it run:** https://cap.so/s/h8zsn77952yh8gx
 
 ![The table, with every player's winnings sitting on the felt](assets/the-table.png)
